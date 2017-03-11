@@ -1,0 +1,11 @@
+1 tane ise
+0
+
+2 tane ise
+-45 0
+
+3 tane ise
+-45 0 37
+
+4 tane ise
+-45 0 37 74
